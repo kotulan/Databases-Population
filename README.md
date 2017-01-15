@@ -1,0 +1,7 @@
+# Databases-Population
+
+This is a program I wrote for my Databases course at UF. It was used to populate the
+database for my group project in the course. It parses through a CSV with information
+about crimes that occurred in the Seattle area in recent years, and adds them to
+the database using SQL. The code for the website that my group created using this
+database is in the "JavaJettyServer" repository.
